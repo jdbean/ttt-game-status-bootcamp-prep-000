@@ -36,5 +36,5 @@ def over?(board)
 end
 
 def winner(board)
-    return "win?(board)[1]"
+    return "won?(board)[1]"
 end
